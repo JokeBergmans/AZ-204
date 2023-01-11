@@ -1,4 +1,4 @@
-# [Azure App Serivce](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)<!-- omit in toc -->
+# [Azure App Serivce](https://learn.microsoft.com/en-us/training/paths/create-azure-app-service-web-apps/)
 
 ## Table of contents
 

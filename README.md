@@ -14,3 +14,9 @@
 - [10. Message-based Solutions](./10-MessageBasedSolutions/README.md)
 - [11. Monitoring and Logging](./11-Monitoring-Logging/README.md)
 - [12. Caching and Content Delivery](./12-Caching-ContentDelivery/README.md)
+
+## Other resources
+
+- [Example questions :page_facing_up:](https://www.examtopics.com/exams/microsoft/az-204/)
+- [YouTube course :movie_camera:](https://www.youtube.com/watch?v=jZx8PMQjobk&ab_channel=freeCodeCamp.org)
+- [FAQ :question:](https://learn.microsoft.com/en-us/certifications/frequently-asked-questions)
