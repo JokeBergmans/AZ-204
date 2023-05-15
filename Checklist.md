@@ -14,7 +14,7 @@
   - [x] Book
   - [x] Microsoft Learn
   - [x] Notes
-- [ ] Azure Functions
+- [x] Azure Functions
   - [x] Pluralsight
   - [x] Book
   - [x] Microsoft Learn
@@ -24,8 +24,8 @@
 ## Develop for Azure Storage
 
 - [ ] Azure Cosmos DB
-  - [ ] Pluralsight
-  - [ ] Book
+  - [x] Pluralsight
+  - [x] Book
   - [ ] Microsoft Learn
   - [ ] Notes
 - [ ] Azure Blob Storage
