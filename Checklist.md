@@ -23,11 +23,11 @@
 
 ## Develop for Azure Storage
 
-- [ ] Azure Cosmos DB
+- [X] Azure Cosmos DB
   - [x] Pluralsight
   - [x] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+  - [X] Microsoft Learn
+  - [X] Notes
 - [ ] Azure Blob Storage
   - [ ] Pluralsight
   - [ ] Book
