@@ -28,11 +28,11 @@
   - [x] Book
   - [X] Microsoft Learn
   - [X] Notes
-- [ ] Azure Blob Storage
-  - [ ] Pluralsight
-  - [ ] Book
-  - [ ] Microsoft Learnw
-  - [ ] Notes
+- [X] Azure Blob Storage
+  - [X] Pluralsight
+  - [X] Book
+  - [X] Microsoft Learn
+  - [X] Notes
 - [ ] Practice exam
 
 ## Implement Azure Security
