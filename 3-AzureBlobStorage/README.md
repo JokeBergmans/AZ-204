@@ -2,6 +2,6 @@
 
 ## Table of contents
 
-- [Explore Azure Blob storage](./1.1%20-%20Explore.md)
-- [Manage Azure Blob storage lifecycle](./1.2%20-%20LifecycleManagement.md)
-- [Work with Azure Blob storage](./1.3%20-%20Work.md)
+- [Explore Azure Blob storage](./3.1%20-%20Explore.md)
+- [Manage Azure Blob storage lifecycle](./3.2%20-%20LifecycleManagement.md)
+- [Work with Azure Blob storage](./3.3%20-%20Work.md)

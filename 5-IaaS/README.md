@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- [Provisioning virtual machines in Azure](1.1-AzureVMs.md)
-- [Create and deploy Azure Resource Management templates](1.2-ARMTemplates.md)
-- [Manage container images in Azure Container Registry](1.3-AzureContainerRegistry.md)
-- [Run container images in Azure Container Instances](1.4-AzureContainerInstances.md)
+- [Provisioning virtual machines in Azure](5.1-AzureVMs.md)
+- [Create and deploy Azure Resource Management templates](5.2-ARMTemplates.md)
+- [Manage container images in Azure Container Registry](5.3-AzureContainerRegistry.md)
+- [Run container images in Azure Container Instances](5.4-AzureContainerInstances.md)

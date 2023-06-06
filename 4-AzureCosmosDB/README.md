@@ -2,5 +2,5 @@
 
 ## Table of contents
 
-- [Explore Azure Cosmos DB](1.1%20-%20Explore.md)
-- [Work with Azure Cosmos DB](1.2%20-%20Work.md)
+- [Explore Azure Cosmos DB](4.1%20-%20Explore.md)
+- [Work with Azure Cosmos DB](4.2%20-%20Work.md)

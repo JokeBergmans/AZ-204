@@ -6,7 +6,7 @@
 
   - [x] Pluralsight
   - [x] Book
-  - [x] Microsoft Learn
+  - [ ] Microsoft Learn <-- REDO!
   - [x] Notes
 
 - [x] Azure App Service
@@ -23,30 +23,30 @@
 
 ## Develop for Azure Storage
 
-- [X] Azure Cosmos DB
+- [x] Azure Cosmos DB
   - [x] Pluralsight
   - [x] Book
-  - [X] Microsoft Learn
-  - [X] Notes
-- [X] Azure Blob Storage
-  - [X] Pluralsight
-  - [X] Book
-  - [X] Microsoft Learn
-  - [X] Notes
+  - [x] Microsoft Learn
+  - [x] Notes
+- [x] Azure Blob Storage
+  - [x] Pluralsight
+  - [x] Book
+  - [x] Microsoft Learn
+  - [x] Notes
 - [ ] Practice exam
 
 ## Implement Azure Security
 
-- [ ] User Authentication and Authorization
-  - [ ] Pluralsight
-  - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
-- [ ] Secure Cloud Solutions
-  - [ ] Pluralsight
-  - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+- [x] User Authentication and Authorization
+  - [x] Pluralsight
+  - [x] Book
+  - [x] Microsoft Learn
+  - [x] Notes
+- [x] Secure Cloud Solutions
+  - [x] Pluralsight
+  - [x] Book
+  - [x] Microsoft Learn
+  - [x] Notes
 - [ ] Practice exam
 
 ## Monitor, Troubleshoot & Optimize Azure Solutions
