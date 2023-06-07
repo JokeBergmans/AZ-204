@@ -37,6 +37,7 @@
 
 ## Other resources
 
+- [Free practice test](https://learn.microsoft.com/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35)
 - [Example questions :page_facing_up:](https://www.examtopics.com/exams/microsoft/az-204/)
 - [YouTube course :movie_camera:](https://www.youtube.com/watch?v=jZx8PMQjobk&ab_channel=freeCodeCamp.org)
 - [Code in Action :movie_camera:](https://www.youtube.com/playlist?list=PLeLcvrwLe185PwU5AVYVwc33O9wzKdb91)

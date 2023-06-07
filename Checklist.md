@@ -54,8 +54,8 @@
 - [ ] Caching and Content Delivery
   - [ ] Pluralsight
   - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+  - [x] Microsoft Learn
+  - [x] Notes
 - [ ] Monitoring and Logging
   - [ ] Pluralsight
   - [ ] Book
