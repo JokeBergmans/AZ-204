@@ -51,16 +51,16 @@
 
 ## Monitor, Troubleshoot & Optimize Azure Solutions
 
-- [ ] Caching and Content Delivery
-  - [ ] Pluralsight
-  - [ ] Book
+- [x] Caching and Content Delivery
+  - [x] Pluralsight
+  - [x] Book
   - [x] Microsoft Learn
   - [x] Notes
-- [ ] Monitoring and Logging
-  - [ ] Pluralsight
-  - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+- [x] Monitoring and Logging
+  - [x] Pluralsight
+  - [x] Book
+  - [x] Microsoft Learn
+  - [x] Notes
 - [ ] Practice exam
 
 ## Connect To and Consume Azure Services and Third-Party Services
