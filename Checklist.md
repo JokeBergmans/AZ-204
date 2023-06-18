@@ -65,11 +65,11 @@
 
 ## Connect To and Consume Azure Services and Third-Party Services
 
-- [ ] API Management
-  - [ ] Pluralsight
-  - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+- [X] API Management
+  - [X] Pluralsight
+  - [X] Book
+  - [X] Microsoft Learn
+  - [X] Notes
 - [ ] Event-based Solutions
   - [ ] Pluralsight
   - [ ] Book
