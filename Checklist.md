@@ -6,7 +6,7 @@
 
   - [x] Pluralsight
   - [x] Book
-  - [ ] Microsoft Learn <-- REDO!
+  - [x] Microsoft Learn
   - [x] Notes
 
 - [x] Azure App Service
