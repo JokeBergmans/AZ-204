@@ -78,6 +78,6 @@
 - [ ] Message-based Solutions
   - [ ] Pluralsight
   - [ ] Book
-  - [ ] Microsoft Learn
-  - [ ] Notes
+  - [x] Microsoft Learn
+  - [x] Notes
 - [ ] Practice exam
