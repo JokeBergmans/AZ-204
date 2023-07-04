@@ -50,6 +50,7 @@
 |**Maximum instances**|- |-|Up to 3|Up to 10|Up to 30|Up to 100
 |**Custom domain**|-|X|X|X|X|X
 |**Auto scale**|-|-|-|X|X|X|X|
+|**Deployment slots**|-|-|-|X|X|X|
 **Hybrid connectivity**|-|-|X|X|X|X|
 |**VNet connectivity**|-|-|X|X|X|X|
 |**Private endpoints**|-|-|X|X|X|X|
